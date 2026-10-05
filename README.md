@@ -122,7 +122,3 @@ RESULT   : FILE CORRUPTED / TAMPERED ✘
 - TLS/SSL for confidentiality
 - Multi-client support using threads
 - GUI and transfer progress bar
-
-## License
-
-This project is for educational purposes. Licensed under the MIT License.
