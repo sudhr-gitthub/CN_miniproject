@@ -1,5 +1,11 @@
 # File Transfer Integrity Verification using MD5 / SHA-256
 
+**Course Name:** Computer Network Laboratory  
+**Course Code:** CS2305  
+**Project Type:** Lab Mini Project  
+
+---
+
 A Computer Network Laboratory mini project that demonstrates how cryptographic hash functions can verify **data integrity** during file transfer over a TCP connection.
 
 ## Overview
